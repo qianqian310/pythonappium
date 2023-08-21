@@ -1,0 +1,6 @@
+2023-08-17 15:57:31 [INFO] 开始查找元素：//*[@resource-id='com.xueqiu.android:id/action_message']/../../..//*[@resource-id='com.xueqiu.android:id/post_status'] (black_handle.py:16)
+2023-08-17 15:57:45 [INFO] 开始查找元素：com.xueqiu.android:id/title_height_view (black_handle.py:16)
+2023-08-17 15:57:55 [INFO] 未找到元素，异常正在处理中…… (black_handle.py:20)
+2023-08-17 15:57:55 [INFO] 当前保存图片的路径》》》/Users/heshuai/PycharmProjects/pythonappium/study/study2/xueqiu_po/base (black_handle.py:23)
+2023-08-17 15:57:56 [INFO] 处理黑名单：('id', 'com.xueqiu.android:id/ib_close') (black_handle.py:31)
+2023-08-17 15:57:56 [INFO] 点击黑名单弹框 (black_handle.py:35)
